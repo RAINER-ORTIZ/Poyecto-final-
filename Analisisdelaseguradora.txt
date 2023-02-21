@@ -1,0 +1,16 @@
+La empresa de seguros TK-U esta teniendo problemas para realizar sus cotizaciones
+ya que tienen una alta demanda, se realiza un programa para facilitar el ingreso 
+de los datos, la aseguradora solicita aumentar un porsentaje dependiendo los datos 
+del asegurado, si trabajan, si tienen hijos o si estan casadados, por lo cual 
+ralizaremos el programa con el siguiente algoritmo. 
+
+1- solicitar datos del asegurado, su edad, estado civil y cantidad de hijos.
+2- Verificar si es mayot de edad para poder saver si es eleigeble para cotizar.
+3- calcular el precio de la cotizacion. 
+4- Calcular los recargos extras basados en la edad del asegurado y su conyugue. 
+5- Calcular los recargo basados en la cantidade de hijos y aplicar el recargo correspondiente. 
+6- calcaular los regargos basados en la cantidade de propiedaes y aplicar recargo correspondinte.
+7- sumar el precio bae y los recargos extra para obterner el precio total de la cotizacion. 
+8- Mostrar el resutado total 
+9- Preguntarle al asegurado si no quiere realizar otra cotizacion. 
+10- si la respuesta del usuario es no / salir, finalizar el programa
